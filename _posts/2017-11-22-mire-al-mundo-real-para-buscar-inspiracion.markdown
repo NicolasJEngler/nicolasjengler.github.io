@@ -11,7 +11,7 @@ Una de las principales luchas de cada designer es conseguir inspiración en dete
 
 Hace unos días estaba leyendo los [tips para diseñadores de Toptal](https://www.toptal.com/designers/freelance/freelance-design-tips), donde la idea es listar una serie de opiniones o consejos que nos ayuden a desenvolvernos de forma más organizada y relajada en nuestras tareas. Todos los participantes dieron visiones muy útiles, pero una en particular quedó resonando en mi cabeza, la de [Yesi Danderfer](https://www.toptal.com/designers/resume/yesica-danderfer). Yésica dice lo siguiente:
 
-> > Volvé a lo básico cuando te encuentres en un lugar difícil o si estás teniendo un bloqueo creativo. Cosas como revistas, series, música, e incluso una caminata al aire libre, pueden hacer cosas increíbles para ayudarnos a que los procesos creativos fluyan naturalmente. ¿Lo mejor? Tus fuentes de inspiración no necesitan estar relacionadas al mundo del diseño. Todo es diseño y comunicación de una forma u otra.
+> Volvé a lo básico cuando te encuentres en un lugar difícil o si estás teniendo un bloqueo creativo. Cosas como revistas, series, música, e incluso una caminata al aire libre, pueden hacer cosas increíbles para ayudarnos a que los procesos creativos fluyan naturalmente. ¿Lo mejor? Tus fuentes de inspiración no necesitan estar relacionadas al mundo del diseño. Todo es diseño y comunicación de una forma u otra.
 
 Cuando nos desenvolvemos como storytellers, product designers, UI/UX developers, y cualquier otro rol relacionado al diseño, usualmente nos acostumbramos a mirar en los lugares más obvios, dejando de lado orígenes menos convencionales. Si bien los trends son muy divertidos de seguir porque nos permiten testearlos a nuestra manera, y los patterns son una apuesta segura a seguir buenas prácticas para recibir buenos resultados, siempre es necesario optar por una opción un poco más arriesgada para conseguir una alternativa a lo usual y así pensar de manera disruptiva (que luego tengamos que medir para entender si performó de forma positiva o negativa en base a lo que necesitemos, es otro tema 😜).
 
@@ -24,7 +24,7 @@ En Tienda Nube, la mayoría de nuestros clientes se encarga de vender productos 
 
 Por su lado, Material Design también hizo un excelente trabajo con su propuesta de considerar como principio el funcionamiento de los papeles en el mundo táctil para crear un sistema visual que sea fácil de comprender en el entorno digital. Esto les llevó a crear y organizar todo un ecosistema de diseño con componentes y elementos reutilizables a lo largo de plataformas tan complejas como lo son un sistema operativo móvil y la web.
 
-> > En Material Design, las propieades físicas del papel son traducidas a la pantalla de un dispositivo.
+> En Material Design, las propieades físicas del papel son traducidas a la pantalla de un dispositivo.
 
 Para resumir, el diseño flat no se empeñó en matar la relación de lo físico o lo real con lo perteneciente al mundo digital, simplemente llevó la abstracción un paso más allá sin perder completamente sus referencias base. Es suficiente con ver componentes flat con “tabs” que siguen viéndose como fichas en un fichero; o carritos de compra que se ven como una factura con un monto total al final.
 
