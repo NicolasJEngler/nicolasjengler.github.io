@@ -15,17 +15,17 @@ If you’ve never been an in-house employee or freelancer, working remotely is u
 
 While I’ve had a 6-month gap in my journey of being a remote front-end developer/product designer (that deserves another post), approximately 96% of my work life has been done in a town of a population that rounds to 45.000 people. Here are some bullets on how to be as productive and motivated as possible while being remote and living in a small city:
 
-1. Share an office or get used to coffee shops
+1. **Share an office or get used to coffee shops:**
 If after some time of working remotely you start missing that human connection and the small-talk that happens in an office, I suggest you find an office that’s willing to rent you a desk or go to a small bar and turn yourself into a regular customer.
 I, personally, rent a part of the office a couple of friends have to run their print shop. We split some expenses and I get a place in the household, so to speak. Being around people definitely helps me avoid the dread of being home alone, and it also forces me to get out and walk a couple of blocks, catch some fresh air, and maybe even run some errands in the process.
 
-2. If you don’t find a local community, search for one online
+2. **If you don’t find a local community, search for one online:**
 As you can probably imagine, a city of 45.000 in an under-developed country isn’t exactly a place swarming with designers and developers, which is why finding a community here is incredibly difficult. Because of this I found myself building an online community with some former colleagues, and also using spaces such as the [Toptal](https://www.toptal.com/) or the [Designlab](https://trydesignlab.com/) Slack teams. Sometimes I even Skype with some friends and we each work on our own stuff while chatting a bit and asking for feedback, this is great to feel yourself accompanied by people that works on similar stuff as you do and bond at the same time.
 
-3. Get into webinars
+3. **Get into webinars:**
 Meetups and gatherings will probably happen a few times or be completely nonexistent in your town, which is why you should get used to webinars in order to get cutting edge training and education in real time. I’d also suggest to coordinate meetups and let the town know, you’ll probably be the only one attending but sometimes other unknown colleagues or people looking to get into the industry might appear and realize they’re not alone!
 
-4. Make sure your working space or home-office is in proper conditions and adequately delimited
+4. **Make sure your working space or home-office is in proper conditions and adequately delimited:**
 I’m going to assume that if you’re working from a remote location you’ll probably also want to take advantage of working from your own place, and for this reason you’ll need to have a proper working space (or an office inside your home if that’s a possibility), adequately decorated and separated from the rest of the other rooms in your place, with all the tools necessary to get the job done. This is useful to keep in mind that this is where work happens, and also to maintain focus while grinding without getting distracted by your significant other(s) or family.
 
 And that’s it! That’s what has gotten me through to this day while working a lot of miles away from the HQs of my employers. While these are not some life-revealing tips, as obvious as they seem, I didn’t realize that most of them would improve the quality of my job and the work-life balance needed to avoid burning out, so I’m leaving those here for other that might be in my position to find out.
