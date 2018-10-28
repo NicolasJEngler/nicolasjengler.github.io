@@ -2,7 +2,7 @@
 layout: post
 title:  "[Insert cheesy 'Hello world!' line here]"
 date:   2015-09-16 12:02:00 -0300
-categories: meta
+categories: 'meta'
 ---
 
 ### Originally on [CodePen](http://codepen.io/nicolasjengler/post/insert-cheesy-hello-world-line-here)
