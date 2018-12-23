@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The case against style consistency in the profile of product designers "
+date:   2018-12-23 02:00:00 -0300
+categories: 'motivational'
+---
+
+### Originally on [Dev.to](https://dev.to/nicolasjengler/the-case-against-style-consistency-in-the-profile-of-product-designers-1mn3)
+
+I have always been a very anxious person, at least ever since I can remember. This can be either a blessing or a course for developers, and designers, depending on the situation. Allow me to give you an example I've come to experience firsthand: **if I need some sort of drive to grind through a task or to learn some new skill in order to keep up with the latest technologies (and trust me, there are plenty of those), anxiety controlled in a healthy manner can be weaponized and turned to my favor. But on the other hand, when things go wild, anxiety can also paralyze me.**
+
+The last couple of weeks have found me revising my portfolio and social media profiles over and over again just because I feel I'm not good enough. I'm constantly seeing these amazing _Dribbble_ and _Instagram_ profiles of great product designers or coders, and they seem to be all about great visuals and total consistency, they are entirely devoted to developing and selling their own brand by showing all of the amazing products they've worked on. **I truly believe I don't have that in me.** 
+
+Ever since I started my professional life, in those first years under the "web designer" title, I've worked on a wide range of products, sites, apps, and whatever else you can think of that involves planning, design and/or development. The projects I tackled go from sites for the local dairy industry to animations for an Android app to find accountability partners. My mind ran wild thinking of ways I could've improved and cleaned up my online presence using these past experiences to show some sort of brand and patternization of whatever I presented and introduced to the public, but that just isn't possible because for every project I had put into part of myself and my craft, there was also a big range of differences that impeded said "patternization".
+
+After some days of deliberation and crippling thoughts, I wondered why is it that I absolutely had to show this side of myself? It's true that I tend to overshare my little experiments. **I create pens in CodePen and post videos on Twitter/Instagram as well as gifs on Mastodon, but I should be doing that, right? I want my potential clients/employers to see that, I want them to hire me because they enjoy that part of myself**, because they want that in their projects and creations.
+
+We're constantly bombarded with this expectation that product designers must excel in every field they work on, whether that is UX, UI, front-end development, planning, back-end development, etcetera. I can't do that, because I end up dreading the tasks involved in that approach, and because I have to refrain from doing some things that bring me a lot of joy, like sharing and fiddling with experimental snippets of code in front-end playgrounds. **I've come to terms with the fact that my design and marketing side might not be as strong as other people out there, and that it is OK, we can't be good at everything we do. Being at peace with this allows me to keep on pushing through with the things I'm good at**, and just as I'm finishing these lines I remember when I wrote [this](https://medium.com/@nicolasjengler/you-are-not-a-failure-8e4fec7c660f).
