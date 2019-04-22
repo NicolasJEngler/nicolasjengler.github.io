@@ -5,7 +5,7 @@ date:   2019-04-21 21:00:00 -0300
 categories: 'development'
 ---
 
-### Originally on Indicius' Medium publication
+### Originally on [Indicius' Medium publication](https://medium.com/indicius/little-did-they-know-they-had-pretty-similar-jobs-97900b94b0b1)
 
 ### Or how front-end developers and designers understood which parts of collaboration are key to excel at their work.
 
