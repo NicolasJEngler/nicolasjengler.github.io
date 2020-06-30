@@ -150,18 +150,18 @@ With everything in place, all that's left to do is to inject our critical CSS fi
 
 ```php
 <!DOCTYPE html>
-<html{{ html_attributes }}>
+<html>
   <head>
     ...
     <style media="screen">
-        {% include directory ~ '/css/critical.css' ignore missing %}
+        <!-- include directory ~ '/css/critical.css' ignore missing -->
     </style>
-    <js-placeholder token="{{ placeholder_token|raw }}">
+    <js-placeholder token="...">
   </head>
   <body>
     ...
-    <css-placeholder token="{{ placeholder_token|raw }}">
-    <js-bottom-placeholder token="{{ placeholder_token|raw }}">
+    <css-placeholder token="...">
+    <js-bottom-placeholder token="...">
   </body>
 </html>
 ```
