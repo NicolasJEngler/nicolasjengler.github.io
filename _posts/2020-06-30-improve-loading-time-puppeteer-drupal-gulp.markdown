@@ -149,31 +149,17 @@ gulp.task('css-critical', async function() {
 With everything in place, all that's left to do is to inject our critical CSS file into our template and move all render-blocking CSS and JS to the bottom of our DOM. `html.html.twig` should end up looking something like this:
 
 ```php
-{%
-  set body_classes = [
-    logged_in ? 'user-logged-in',
-    not root_path ? 'path-frontpage' : 'path-' ~ root_path|clean_class,
-    node_type ? 'node--type-' ~ node_type|clean_class,
-    db_offline ? 'db-offline',
-  ]
-%}
 <!DOCTYPE html>
 <html{{ html_attributes }}>
   <head>
-    <head-placeholder token="{{ placeholder_token|raw }}">
-    <title>{{ head_title|safe_join(' | ') }}</title>
+    ...
     <style media="screen">
         {% include directory ~ '/css/critical.css' ignore missing %}
     </style>
     <js-placeholder token="{{ placeholder_token|raw }}">
   </head>
-  <body{{ attributes.addClass(body_classes) }}>
-    <a href="#main-content" class="visually-hidden focusable skip-link">
-      {{ 'Skip to main content'|t }}
-    </a>
-    {{ page_top }}
-    {{ page }}
-    {{ page_bottom }}
+  <body>
+    ...
     <css-placeholder token="{{ placeholder_token|raw }}">
     <js-bottom-placeholder token="{{ placeholder_token|raw }}">
   </body>
