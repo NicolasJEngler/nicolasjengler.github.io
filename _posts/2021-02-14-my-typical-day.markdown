@@ -7,7 +7,7 @@ categories: 'workflow'
 
 ### Originally on [Dev.to](https://dev.to/nicolasjengler/my-typical-day-4mp3)
 
-This post was somewhat influenced by [Michelle Barker’s post](https://css-irl.info/my-typical-day/), which in turned was encouraged by [Colin Devroe](http://cdevroe.com/2021/01/07/my-typical-day/).
+This post was somewhat influenced by [Michelle Barker’s post](https://css-irl.info/my-typical-day/), which in turn was encouraged by [Colin Devroe](http://cdevroe.com/2021/01/07/my-typical-day/).
 
 Routine is good for me as long as I can keep a straight score, but as soon as something ruptures those habits everything falls into chaos, which is why the last couple of years (and I mean that literally, it must be around 2 years or a little bit less) that I ended up finding a system that works for me and has a decent amount of structure but still is flexible enough to allow interruptions without throwing everything into disarray. 
 
