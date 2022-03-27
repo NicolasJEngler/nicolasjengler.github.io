@@ -40,6 +40,7 @@ body {
 
   @media screen and (max-width: 600px) {
     font-size: 20px;
+    padding-right: 45px;
   }
 }
 
@@ -111,6 +112,8 @@ body {
 .post-title {
   @media screen and (max-width: 800px) {
     font-size: 20px;
+    line-height: 1.4;
+    font-weight: 300;
   }
 }
 
@@ -172,4 +175,24 @@ blockquote {
 
 .svg-icon {
   fill: var(--color-primary);
+}
+
+.post-link,
+.post-content h3,
+.post-content h4 {
+  @media screen and (max-width: 600px) {
+    font-size: 20px;
+    font-weight: 300;
+  }
+}
+
+.social-media-list li a svg {
+  display: inline-block;
+  transform: translateY(-1px);
+}
+
+.footer-heading {
+  @media screen and (max-width: 600px) {
+    font-weight: 300;
+  }
 }
