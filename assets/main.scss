@@ -1,0 +1,171 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+:root {
+  --color-bg: #041C32;
+  --color-bg-accent: #04293A;
+  --color-bg-light: #064663;
+  --color-primary: #ECB365;
+  --color-secondary: #E9A6A6;
+}
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+
+* {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: white;
+}
+
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-title,
+.site-nav {
+  float: none;
+}
+
+.site-title {
+  line-height: 1.2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white !important;
+
+  @media screen and (max-width: 600px) {
+    font-size: 20px;
+  }
+}
+
+.site-nav {
+  line-height: 1.2;
+  margin-bottom: 10px;
+  color: var(--color-primary);
+}
+
+.site-nav::before {
+  content: '→';
+  display: inline-block;
+  transform: translateY(-2px);
+
+  @media screen and (max-width: 600px) {
+    display: none !important;
+  }
+}
+
+.site-nav .trigger {
+  display: inline-block;
+}
+
+.site-nav .page-link {
+  color: var(--color-primary);
+}
+
+.footer-col-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: white;
+}
+
+.footer-col-1,
+.footer-col-2 {
+  box-sizing: border-box;
+}
+
+.footer-col-1 {
+  width: 65%;
+  order: 1;
+
+  @media screen and (max-width: 600px) {
+    order: 0;
+    width: 100%;
+  }
+}
+
+.footer-col-2 {
+  width: 35%;
+  order: 2;
+
+  @media screen and (max-width: 600px) {
+    order: 1;
+    width: 100%;
+  }
+}
+
+.footer-col-3 {
+  width: 100%;
+  order: 0;
+
+  @media screen and (max-width: 600px) {
+    order: 2;
+  }
+}
+
+.post-title {
+  @media screen and (max-width: 800px) {
+    font-size: 20px;
+  }
+}
+
+.post-meta {
+  color: white;
+}
+
+a,
+a:visited,
+a:focus,
+a:active,
+a:hover {
+  color: var(--color-secondary);
+}
+
+.site-header {
+  border-top-color: var(--color-bg-accent);
+  border-bottom-color: var(--color-bg-light);
+}
+
+.site-footer {
+  border-top-color: var(--color-bg-light);
+}
+
+.icon > svg path {
+  fill: var(--color-primary);
+}
+
+.site-nav {
+  @media screen and (max-width: 600px) {
+    border-color: var(--color-bg-light);
+    background: var(--color-bg-accent);
+  }
+}
+
+.site-nav .menu-icon > svg path {
+  @media screen and (max-width: 600px) {
+    fill: white;
+  }
+}
+
+pre, code {
+  background-color: var(--color-bg-accent);
+  border-color: var(--color-bg-light);
+}
+
+.highlighter-rouge .highlight {
+  background-color: var(--color-bg-accent);
+}
+
+.highlight .nt {
+  color: antiquewhite;
+}
+
+blockquote {
+  color: white;
+  opacity: .8;
+}
