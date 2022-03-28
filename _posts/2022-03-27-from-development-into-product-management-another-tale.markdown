@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "From development and into product management, yet another tale"
+date:   2021-02-14 10:00:00 -0300
+categories: 'career'
+---
+
+It is a rather common path for developers, no matter what branch they're located in, to go from **development** to **technical leadership**, and eventually –sometimes– into **management**. As I've already stated frequently in the past, my career path has been traversed mostly solo, not in the sense of freelancing on my own but rather in the sense of never having a clear mentor to guide me through the muddy waters of the tech industry, an industry I decided to become a part of more than 10 years ago.
+
+When I first started as a developer, considering that moment to be after having my first real freelancing gig, my boyfriend and mentor passed away, and ever since I've been doing my best to absorb the experience of others to understand what is the best way to conduct myself in whichever role I'm currently situated. My experience with an in-house role was fairly limited and lasted only about 6 months when I moved to Buenos Aires, but every instance before and after my attempt at working in a "traditional" physical office were done from a small town, giving me zero access to a face-to-face dev community, and thus limiting me to, again, getting all my knowledge and third-party experiences only from the wonderous world of the Internet.
+
+I always considered myself to have a keen eye for organization and attention to detail, which gave me a great advantage not only when it came to translating designs into HTML and CSS, but also to organize my work without too much hardship. Kanban boards, ToDo lists, excerpts for clients, Gantt charts, they were never really something strange to me, and they indeed came super handy when first starting freelance jobs. This is a quality I assume naturally helped me take somewhat of a management role while developing the sites or apps I was working on, no matter if independently or as part of a team. When collaborating with a group, most project managers were thankful of this capacity, which is why I decided to value it and kept on nourishing it.
+
+#### Even if organizing the tasks in the project isn't your main responsibility, helping your team have a clear vision of the current status and next steps is always desired. Same goes for proposals for features and approaches to solving different problems, for example.
+
+As my responsibilities naturally grew when I kept on expanding my skillset as a developer, I eventually started freelancing for [WayTooDigital](https://waytoodigital.com/), and I induce that my contractor, Agustín, found the capacity of a developer to be able manage a team from a technical standpoint valuable, since he offered me to join in a somewhat more solid manner soon after a couple of projects. Accepting was one of the best decisions I've ever made, as it opened up the possibility to get my hands dirty directly with clients and the product design process altogether, and this was mostly enabled by Agustín's trust that I was up for the task from beginning to end.
+
+Meanwhile, I kept getting more involved in the lifecycle of a product and I was able to add my, and my team's, own touch to the ideation and execution of each project, allowing us to grow both in the management department and in the latest technologies used for different types of requirements. Navigating this stage while trying to excel in both engineering and the arrangements of instructions to get a product to life is incredibly challenging, and this is where I had to make a decision on which front I wanted to be the most involved in. I eventually decided that my interest leaned towards management and this is where I steered into properly organizing what I needed on my end to provide my team with the best tools and processes for them to work and focus on their expertise areas. I was rather inexperienced in this front, so I ran through a list of what I was able to grasp were the areas that successful product managers focused on:
+
+- Helping the team in a "cross-functional" approach, considering each step of the way as a key part of a whole so they can collaborate holistically
+- Accompanying designers and developers in depth when reviewing feature proposals or deliveries to properly prioritize and stage releases
+- Helping clients, product owners and stakeholders understand already set realistic roadmaps with input from all parts of the team
+
+As I kept on getting deeper and deeper into this, I struggled to keep up with the requirements *I* considered were needed for my team to be successful, especially having a hard time with Proof of Worth and impostor syndrome on my end. [Shreyas Doshi](https://twitter.com/shreyas/) helped me a great bunch with this when I read the following Twitter thread:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Proof of Worth, a gentle product management rant:<br><br>When an early-career PM starts on a team, they might be told that they must build credibility with the builders (eng, design, analytics…)<br><br>They must prove their worth.<br><br>Fine advice, but it can go wrong long-term.<br><br>1/11</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1266797669088804865?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I know I'm cutting this short, and there isn't exactly a conclusion to this entry, as this role for me is still an active living and breathing ongoing process, but I thought that sharing how it went so far might help other people in the same place as me, who might not exactly have a mentor or someone to lean on to explore an unconventional road to an already established role in the industry. 
+
+Best of luck to all new managers out there! It's a wild wild world, but we got what it takes to make the best of it.
