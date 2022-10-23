@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From development and into product management, yet another tale"
-date:   2021-02-14 10:00:00 -0300
+date:   2022-03-27 10:00:00 -0300
 categories: 'career'
 ---
 
