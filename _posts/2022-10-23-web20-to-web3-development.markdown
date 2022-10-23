@@ -5,6 +5,8 @@ date:   2022-10-23 10:00:00 -0300
 categories: 'development'
 ---
 
+**Disclaimer:** this post is structured in a reaaally weird way. I wrote this more like a stream of conciousness rather than an organized set of notes, so I beg you keep that in mind when going any further.
+
 There's been tons of articles explaining, or at least trying to encompass, what web3 actually is and how it relates to its theoretical predecessor, the so called web 2.0, a term coined in early 2000s and lately popularized at its peak around 2010 to describe how social media came into play in all this. Although this intro might be unnecessary, I feel a quick showcase of a diagram, that by now most likely 90% of the internet saw in the NFT craze from mid-to-late 2021, is necessary:
 
 ![Read vs Read/Write vs Read/Write/Own](https://www.gettingsmart.com/wp-content/uploads/2022/08/4ba40746-3ea0-42f3-8561-14cc1856e59e_D0PzD9bppJkDwgCzWr4D6R_02NhLazwsWVpN9BUL_K0L0qBTrhen0lsbe_CObfxkhZ3mHiGFNaB1MIX61dGxtb2BrH3kZNPVu4SjGeOuR0mGnFPOeMyRJnxTedvaBXauSbHtc30eFvSIqGnocae0t8s.png)
