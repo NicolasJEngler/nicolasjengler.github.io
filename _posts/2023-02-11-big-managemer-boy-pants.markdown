@@ -7,6 +7,8 @@ categories: 'management'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-UjBbelEqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+&nbsp;
+
 It's been a while since I last posted something here. Not as much time as in other ocassions but still for me it feels like ages, mostly 'cause I've been through some big changes. Those changes have been both at a personal and professional level. Let's focus on the work stuff for now 'cause the other one is a can of worms I truly rather not open up to the internet. That last one is something I've been practicing lately (oversharing much?)
 
 Ever since I can remember, I've taken pride in being a **polymath-wannabe, a generalist, someone that could juggle different aspects of a whole**, and that really paid off. While I always worked mostly as a developer of sorts, being able to do almost anything gave me an advantage. I was an asset to my employers. Being a generalist gave me the opportunity to learn a little about a lot. I've worked solo as a freelancer, I've worked with marketing teams, development teams, business teams, and *from every experience I took in as much as I was able to do so without exploding*.
