@@ -5,9 +5,9 @@ date:   2023-10-18 01:00:00 -0300
 categories: 'fun'
 ---
 
-One of my 2023 resolutions was to get back into the habit of reading, especially since I decided to stop being a snob and read whatever I truly wanted (even if that was some questionable fanfic-y literature). My go-to website to track the books I delve into is (Goodreads)[https://goodreads.com]. Goodreads has an amazing "news" section that's essentially a blog where they recommend upcoming books and I usually align pretty well with what they promote over there, but the sad news is that they don't offer an RSS feed for their news section.
+One of my 2023 resolutions was to get back into the habit of reading, especially since I decided to stop being a snob and read whatever I truly wanted (even if that was some questionable fanfic-y literature). My go-to website to track the books I delve into is [Goodreads](https://goodreads.com). Goodreads has an amazing "news" section that's essentially a blog where they recommend upcoming books and I usually align pretty well with what they promote over there, but the sad news is that they don't offer an RSS feed for their news section.
 
-Ever since I left (most) social media, a lot of the information I consume is through RSS feeds (thanks (NetNewsWire)[https://netnewswire.com/]), so this was an issue. Yes, I could've signed up for email notifications but in all reality I wanted to have all the content centralized in my reader, so that's when I took it into my own hands to offer myself a way to create a custom RSS feed. 
+Ever since I left (most) social media, a lot of the information I consume is through RSS feeds (thanks [NetNewsWire](https://netnewswire.com/), so this was an issue. Yes, I could've signed up for email notifications but in all reality I wanted to have all the content centralized in my reader, so that's when I took it into my own hands to offer myself a way to create a custom RSS feed. 
 
 ### Prerequisites
 
