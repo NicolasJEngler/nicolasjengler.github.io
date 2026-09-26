@@ -25,8 +25,28 @@ github_username:  nicolasjengler
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Navigation: keep the header limited to the about page so no other page
+# (e.g. the /tusl/ section index) leaks into the main nav.
+header_pages:
+  - about.md
+
+# TUSL study log. Lives in its own collection so it stays out of site.posts
+# (home, archive and jekyll-feed) while still being built under /tusl/.
+collections:
+  tusl:
+    output: true
+    permalink: /tusl/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: tusl
+    values:
+      layout: post
+      noindex: true
