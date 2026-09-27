@@ -29,7 +29,7 @@ También pesa el tiempo. La propia consigna pide esperar varios días para ver l
 
 ## Cómo podrían resolverse
 
-La propuesta de Pagola es empezar por el taller de usuario, editar en primera persona y entender el funcionamiento antes de publicar. A eso agregaría algunas cosas que noté en la práctica: elegir temas con huecos reales y fuentes accesibles, enseñar explícitamente a buscar y citar y, si se puede, coordinar con la comunidad (bibliotecarios, Wikimedia Argentina) para no dejar a los editores principiantes solos frente a las normas.
+Como bien dice la propuesta del material traído en clase: una forma de resolver es empezar por el taller de usuario, editar en primera persona y entender el funcionamiento antes de publicar. A eso agregaría algunas cosas que noté en la práctica: elegir temas con huecos reales y fuentes accesibles, enseñar explícitamente a buscar y citar y, si se puede, coordinar con la comunidad (bibliotecarios, Wikimedia Argentina) para no dejar a los editores principiantes solos frente a las normas.
 
 En cuanto a la evaluación, conviene mirar el proceso y no solo el resultado: el diff, la reflexión sobre lo que costó y lo que se aprendió, y qué pasó con la edición después. Y hay que naturalizar que una reversión no es un fracaso, sino parte del modo en que el conocimiento se construye en común.
 
